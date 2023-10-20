@@ -1,0 +1,18 @@
+
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: flex-start;
+}
+
+.field input[type='text'],
+.field input[type='number'],
+.field input[type='email'] {
+    width: 100%;
+}
+
+
+.input {
+    padding: 2px 4px;
+}

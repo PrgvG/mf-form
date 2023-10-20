@@ -1,0 +1,28 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 8px;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    align-items: flex-start;
+}
+
+.submit {
+    padding: 4px 8px;
+}
+
+.gender {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+
+
+.pre {
+    text-align: start;
+}
